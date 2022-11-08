@@ -1,0 +1,5 @@
+Teachers Records
+ID 	 Name 	 Class 	 Section
+1 	 LANA 	 2 	 22
+2 	 NAWAL 	 1 	 22
+3 	 JANA 	 1 	 40
